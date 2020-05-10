@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact App 2</string>
+    <string name="enter_name">Entrez le nom</string>
+    <string name="enter_number">Entre le numéro</string>
+</resources>
